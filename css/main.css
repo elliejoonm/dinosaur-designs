@@ -11,6 +11,7 @@ img {
 h1, h2, h3 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', cursive;
 }
 
 figcaption {
@@ -19,8 +20,13 @@ figcaption {
   text-align: center;
 }
 
+.firstcaption {
+  font-size: 1rem;
+}
+
 nav {
   font-weight: bold;
+  font-family: 'Patua One', cursive;
 }
 
 a, a:link {
